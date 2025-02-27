@@ -13,3 +13,4 @@ mdurl
 pygments
 langchain_community
 chromadb # Use the latest stable version of ChromaDB
+sqlite3 >= 3.35.0
