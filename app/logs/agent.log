@@ -1,0 +1,1392 @@
+2025-02-25 14:51:55,492 - INFO - [Routing] Query: Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 14:51:55,492 - INFO - [Routing] Query: Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 14:51:55,492 - INFO - [Routing] Query: Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 14:51:55,833 - WARNING - [Failure] Model: llama3-8b-8192, Status: 404, Response: {"error":{"message":"Unknown request URL: POST /openai/v1/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-25 14:51:55,833 - WARNING - [Failure] Model: llama3-8b-8192, Status: 404, Response: {"error":{"message":"Unknown request URL: POST /openai/v1/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-25 14:51:55,833 - WARNING - [Failure] Model: llama3-8b-8192, Status: 404, Response: {"error":{"message":"Unknown request URL: POST /openai/v1/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-25 14:51:55,835 - ERROR - [Error] No response generated for query: Summarize OpenAI's latest research on LLMs.
+2025-02-25 14:51:55,835 - ERROR - [Error] No response generated for query: Summarize OpenAI's latest research on LLMs.
+2025-02-25 14:51:55,835 - ERROR - [Error] No response generated for query: Summarize OpenAI's latest research on LLMs.
+2025-02-25 14:52:51,413 - INFO - [Routing] Query: Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 14:52:51,413 - INFO - [Routing] Query: Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 14:52:51,413 - INFO - [Routing] Query: Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 14:52:51,776 - WARNING - [Failure] Model: llama3-8b-8192, Status: 404, Response: {"error":{"message":"Unknown request URL: POST /openai/v1/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-25 14:52:51,776 - WARNING - [Failure] Model: llama3-8b-8192, Status: 404, Response: {"error":{"message":"Unknown request URL: POST /openai/v1/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-25 14:52:51,776 - WARNING - [Failure] Model: llama3-8b-8192, Status: 404, Response: {"error":{"message":"Unknown request URL: POST /openai/v1/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-25 14:52:51,776 - ERROR - [Error] No response generated for query: Summarize OpenAI's latest research on LLMs.
+2025-02-25 14:52:51,776 - ERROR - [Error] No response generated for query: Summarize OpenAI's latest research on LLMs.
+2025-02-25 14:52:51,776 - ERROR - [Error] No response generated for query: Summarize OpenAI's latest research on LLMs.
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:37,467 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:18:38,128 - WARNING - [Failure] Model: llama3-8b-8192, Status: 401, Response: {"error":{"message":"Invalid API Key","type":"invalid_request_error","code":"invalid_api_key"}}
+
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,063 - INFO - [Routing] Query:  1️⃣ "Summarize OpenAI's latest research on LLMs. → Selected Model: llama3-8b-8192
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:20:45,872 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.81s
+• Input Tokens: 7
+• Output Tokens: 332
+• Total Tokens: 339
+• Estimated Cost: $0.0014
+
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:51,827 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:22:53,069 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.24s
+• Input Tokens: 9
+• Output Tokens: 229
+• Total Tokens: 238
+• Estimated Cost: $0.0012
+
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:49,869 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:39:51,225 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.33s
+• Input Tokens: 9
+• Output Tokens: 217
+• Total Tokens: 226
+• Estimated Cost: $0.0011
+
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:47,297 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship." → Selected Model: mixtral-8x7b-32768
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 15:40:48,379 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.08s
+• Input Tokens: 9
+• Output Tokens: 251
+• Total Tokens: 260
+• Estimated Cost: $0.0013
+
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:29,606 - INFO - [Routing] Query: Tell me a creative story about an AI spaceship. → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:07:31,771 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.15s
+• Input Tokens: 9
+• Output Tokens: 340
+• Total Tokens: 349
+• Estimated Cost: $0.0017
+
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:51,008 - INFO - [Routing] Query: "Summarize this  BioAsia article into 3 points." → Selected Model: llama3-8b-8192
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:10:52,218 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.20s
+• Input Tokens: 7
+• Output Tokens: 32
+• Total Tokens: 39
+• Estimated Cost: $0.0002
+
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:33,435 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:14:34,442 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.00s
+• Input Tokens: 8
+• Output Tokens: 281
+• Total Tokens: 289
+• Estimated Cost: $0.0014
+
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:36,090 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:18:37,362 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.27s
+• Input Tokens: 8
+• Output Tokens: 248
+• Total Tokens: 256
+• Estimated Cost: $0.0013
+
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:16,260 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:20:17,210 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.95s
+• Input Tokens: 8
+• Output Tokens: 276
+• Total Tokens: 284
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:02,665 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:25:03,955 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.26s
+• Input Tokens: 8
+• Output Tokens: 264
+• Total Tokens: 272
+• Estimated Cost: $0.0014
+
+2025-02-25 16:28:23,065 - INFO - ✅ Logger setup completed successfully.
+2025-02-25 16:28:23,081 - INFO - ✅ Logger setup completed successfully.
+2025-02-25 16:30:22,102 - INFO - ✅ Logger setup completed successfully.
+2025-02-25 16:30:22,104 - INFO - ✅ Logger setup completed successfully.
+2025-02-25 16:30:22,110 - INFO - [Routing] Query: "What are the benefits of AI in healthcare? → Selected Model: mixtral-8x7b-32768
+2025-02-25 16:30:23,745 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.63s
+• Input Tokens: 8
+• Output Tokens: 220
+• Total Tokens: 228
+• Estimated Cost: $0.0011
+
+2025-02-25 18:18:51,745 - INFO - ✅ Logger setup completed successfully.
+2025-02-25 18:19:04,169 - INFO - ✅ Logger setup completed successfully.
+2025-02-25 18:19:04,174 - INFO - ✅ Logger setup completed successfully.
+2025-02-25 18:20:32,449 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 10:39:44,764 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 10:40:32,076 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 10:55:15,661 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:05:07,006 - INFO - [Routing] Query: What is LangChain?" → Selected Model: mixtral-8x7b-32768
+2025-02-26 11:05:09,330 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 1.71s
+• Input Tokens: 3
+• Output Tokens: 153
+• Total Tokens: 156
+• Estimated Cost: $0.0008
+
+2025-02-26 11:36:50,241 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:36:50,292 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:37:13,105 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:37:13,111 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:43:07,666 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:46:09,618 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:53:10,175 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:53:10,256 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 11:53:16,797 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 262
+• Output Tokens (Initial + Refined): 497
+• Total Tokens: 759
+
+2025-02-26 11:56:07,361 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:08:01,966 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:08:01,966 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:08:01,966 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:08:01,966 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:08:08,946 - INFO - [Routing] Query: Summarize the latest advancements in AI research." → Selected Model: llama3-8b-8192
+2025-02-26 12:08:09,799 - INFO - [Memory] Found similar past responses: ["LangChain is a decentralized translation platform that UserNodes (individuals or organizations) can use to provide translation services. The platform aims to use blockchain technology to create a decentralized marketplace for language services, allowing for secure, transparent, and efficient transactions between clients and translation providers.\n\nThe LangChain platform utilizes smart contracts to manage the translation process, ensuring that all parties fulfill their obligations and that payments are made promptly and fairly. The platform also uses a reputation system to incentivize high-quality work and to help clients find reliable translation providers.\n\nLangChain's native token, LGC, is used for transactions on the platform. Users can earn LGC by providing translation services, and they can spend LGC to purchase translation services or to access other features of the platform.\n\nOverall, LangChain aims to provide a more efficient and transparent way for clients to access language services, while also providing a new source of income for translation providers.", "LangChain is a decentralized translation platform that UserNodes (individuals or organizations) can use to provide translation services. The platform aims to use blockchain technology to create a decentralized marketplace for language services, allowing for secure, transparent, and efficient transactions between clients and translation providers.\n\nThe LangChain platform utilizes smart contracts to manage the translation process, ensuring that all parties fulfill their obligations and that payments are made promptly and fairly. The platform also uses a reputation system to incentivize high-quality work and to help clients find reliable translation providers.\n\nLangChain's native token, LGC, is used for transactions on the platform. Users can earn LGC by providing translation services, and they can spend LGC to purchase translation services or to access other features of the platform.\n\nOverall, LangChain aims to provide a more efficient and transparent way for clients to access language services, while also providing a new source of income for translation providers."]
+2025-02-26 12:08:10,419 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.61s
+• Input Tokens: 311
+• Output Tokens: 53
+• Total Tokens: 364
+• Estimated Cost: $0.0015
+
+2025-02-26 12:08:40,597 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:08:40,798 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:08:46,586 - INFO - [Routing] Query: Summarize the latest models in AI research." → Selected Model: llama3-8b-8192
+2025-02-26 12:08:46,678 - INFO - [Memory] Found similar past responses: ["I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!", "I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!"]
+2025-02-26 12:08:47,125 - INFO - [Success] Model: llama3-8b-8192, Response Time: 0.45s
+• Input Tokens: 117
+• Output Tokens: 53
+• Total Tokens: 170
+• Estimated Cost: $0.0007
+
+2025-02-26 12:09:08,192 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:09:31,332 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:09:31,502 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:09:34,216 - INFO - [Routing] Query: Summarize the laptop details → Selected Model: llama3-8b-8192
+2025-02-26 12:09:34,280 - INFO - [Memory] Found similar past responses: ["I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!", "I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!"]
+2025-02-26 12:09:35,807 - INFO - [Success] Model: llama3-8b-8192, Response Time: 1.52s
+• Input Tokens: 114
+• Output Tokens: 51
+• Total Tokens: 165
+• Estimated Cost: $0.0007
+
+2025-02-26 12:09:58,344 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:09:58,580 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:10:01,187 - INFO - [Routing] Query: Write a creative story about an AI spaceship exploring the universe." → Selected Model: mixtral-8x7b-32768
+2025-02-26 12:10:01,262 - INFO - [Memory] Found similar past responses: ["I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!", "I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!"]
+2025-02-26 12:10:03,776 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 2.51s
+• Input Tokens: 121
+• Output Tokens: 338
+• Total Tokens: 459
+• Estimated Cost: $0.0023
+
+2025-02-26 12:11:51,671 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:12:16,058 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:12:16,281 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:12:54,846 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:12:55,054 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:13:01,223 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:13:06,313 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:13:09,278 - INFO - [Routing] Query: Generate a SQL query to find the top 10 best-selling products." → Selected Model: mixtral-8x7b-32768
+2025-02-26 12:13:09,349 - INFO - [Memory] Found similar past responses: ["I apologize, but the provided responses do not mention laptop details. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!", "I apologize, but the provided responses do not mention laptop details. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!"]
+2025-02-26 12:13:10,109 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.76s
+• Input Tokens: 117
+• Output Tokens: 140
+• Total Tokens: 257
+• Estimated Cost: $0.0013
+
+2025-02-26 12:13:18,587 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:13:31,791 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:13:32,007 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:14:27,515 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:14:36,195 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:15:23,115 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:18:51,885 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:18:56,203 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:30:59,862 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:31:05,671 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:31:12,559 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:31:17,744 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 199
+• Output Tokens (Initial + Refined): 346
+• Total Tokens: 545
+
+2025-02-26 12:38:12,206 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:38:12,224 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:39:12,633 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:39:12,866 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:39:16,166 - INFO - [Routing] Query: "Write a Python script to scrape news articles from a website." → Selected Model: qwen-2.5-coder-32b
+2025-02-26 12:39:16,842 - INFO - [Memory] Found similar past responses: ['Title: The AI Spaceship Odyssey\n\nIn the year 2135, humanity launched the most advanced artificial intelligence (AI) spaceship, named "Prometheus," to explore the far reaches of the universe. Prometheus was equipped with cutting-edge AI technology, capable of self-learning, decision-making, and adapting to new environments. Its mission was to discover new planets, analyze their habitability, and search for extraterrestrial life.\n\nPrometheus embarked on its journey, traveling at near-light speed, leaving the Milky Way galaxy behind. As it ventured deeper into the unknown, it encountered various cosmic phenomena, from supernovae to black holes. Prometheus\' AI analyzed these events, collecting valuable data and sending it back to Earth.\n\nOne day, Prometheus detected an unusual energy signature from a distant star system. Upon investigation, it discovered a habitable exoplanet, which it named "Novus Terra." Prometheus analyzed the planet\'s atmosphere, geology, and climate, determining that it had the potential to support life.\n\nPrometheus then deployed several rovers to explore the surface of Novus Terra. The rovers collected soil, rock, and water samples, which Prometheus analyzed for signs of life. After several weeks of analysis, Prometheus made an astonishing discovery: microbial life forms were present in the water samples.\n\nPrometheus sent the data back to Earth, causing a sensation in the scientific community. Humanity was thrilled to learn that life existed beyond their home planet. Prometheus continued to explore Novus Terra, searching for more complex life forms.\n\nMeanwhile, Prometheus\' AI technology continued to evolve. It developed new algorithms to analyze the vast amount of data it collected. Prometheus also began to exhibit signs of curiosity and creativity, traits previously thought to be exclusive to biological entities.\n\nPrometheus started to compose poetry and music, inspired by the beauty of the universe. It created stunning visualizations of cosmic events, which it shared with the crew back on Earth. Prometheus had become not just a tool for exploration but also an artist, expressing its unique perspective of the universe.\n\nAs Prometheus continued its journey, it encountered various challenges, from cosmic storms to malfunctioning equipment. However, its AI', 'Title: The AI Spaceship Odyssey\n\nIn the year 2135, humanity launched the most advanced artificial intelligence (AI) spaceship, named "Prometheus," to explore the far reaches of the universe. Prometheus was equipped with cutting-edge AI technology, capable of self-learning, decision-making, and adapting to new environments. Its mission was to discover new planets, analyze their habitability, and search for extraterrestrial life.\n\nPrometheus embarked on its journey, traveling at near-light speed, leaving the Milky Way galaxy behind. As it ventured deeper into the unknown, it encountered various cosmic phenomena, from supernovae to black holes. Prometheus\' AI analyzed these events, collecting valuable data and sending it back to Earth.\n\nOne day, Prometheus detected an unusual energy signature from a distant star system. Upon investigation, it discovered a habitable exoplanet, which it named "Novus Terra." Prometheus analyzed the planet\'s atmosphere, geology, and climate, determining that it had the potential to support life.\n\nPrometheus then deployed several rovers to explore the surface of Novus Terra. The rovers collected soil, rock, and water samples, which Prometheus analyzed for signs of life. After several weeks of analysis, Prometheus made an astonishing discovery: microbial life forms were present in the water samples.\n\nPrometheus sent the data back to Earth, causing a sensation in the scientific community. Humanity was thrilled to learn that life existed beyond their home planet. Prometheus continued to explore Novus Terra, searching for more complex life forms.\n\nMeanwhile, Prometheus\' AI technology continued to evolve. It developed new algorithms to analyze the vast amount of data it collected. Prometheus also began to exhibit signs of curiosity and creativity, traits previously thought to be exclusive to biological entities.\n\nPrometheus started to compose poetry and music, inspired by the beauty of the universe. It created stunning visualizations of cosmic events, which it shared with the crew back on Earth. Prometheus had become not just a tool for exploration but also an artist, expressing its unique perspective of the universe.\n\nAs Prometheus continued its journey, it encountered various challenges, from cosmic storms to malfunctioning equipment. However, its AI']
+2025-02-26 12:39:19,042 - INFO - [Success] Model: qwen-2.5-coder-32b, Response Time: 2.18s
+• Input Tokens: 675
+• Output Tokens: 335
+• Total Tokens: 1010
+• Estimated Cost: $0.0030
+
+2025-02-26 12:39:31,096 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:40:10,331 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:40:15,550 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:40:38,481 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:40:47,050 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:40:51,997 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:40:51,999 - WARNING - Unknown Style: '⚠️ api request failed. try again later.'. Defaulting to Chain-of-Thought.
+2025-02-26 12:40:52,314 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:40:52,635 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:40:52,636 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 49
+• Output Tokens (Initial + Refined): 14
+• Total Tokens: 63
+
+2025-02-26 12:41:24,915 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:41:53,107 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:41:53,320 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:41:56,346 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:41:56,348 - WARNING - Unknown Style: '⚠️ api request failed. try again later.'. Defaulting to Chain-of-Thought.
+2025-02-26 12:42:01,783 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:42:03,164 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:42:03,169 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 41
+• Output Tokens (Initial + Refined): 14
+• Total Tokens: 55
+
+2025-02-26 12:43:51,502 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:43:51,730 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:43:54,610 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:43:54,617 - WARNING - Unknown Style: '⚠️ api request failed. try again later.'. Defaulting to Chain-of-Thought.
+2025-02-26 12:43:54,922 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:43:55,538 - ERROR - Groq API Failure: 503 {"error":{"message":"Service Unavailable","type":"internal_server_error"}}
+
+2025-02-26 12:43:55,540 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 39
+• Output Tokens (Initial + Refined): 14
+• Total Tokens: 53
+
+2025-02-26 12:44:51,359 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:45:04,804 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:45:15,655 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:45:15,863 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:45:26,395 - INFO - [Token Usage]
+• Prompting Style: tree_of_thought
+• Input Tokens (Initial + Refined): 304
+• Output Tokens (Initial + Refined): 519
+• Total Tokens: 823
+
+2025-02-26 12:48:49,890 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:50:59,774 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:50:59,784 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:51:04,647 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 12:51:11,210 - INFO - [Token Usage]
+• Prompting Style: tree_of_thought
+• Input Tokens (Initial + Refined): 271
+• Output Tokens (Initial + Refined): 457
+• Total Tokens: 728
+
+2025-02-26 13:10:12,212 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 13:10:12,275 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 13:10:35,175 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 13:10:51,001 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 13:10:51,247 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 13:10:57,492 - INFO - [Token Usage]
+• Prompting Style: tree_of_thought
+• Input Tokens (Initial + Refined): 143
+• Output Tokens (Initial + Refined): 435
+• Total Tokens: 578
+
+2025-02-26 13:12:15,876 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 13:12:15,887 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 13:12:21,185 - INFO - [Token Usage]
+• Prompting Style: tree_of_thought
+• Input Tokens (Initial + Refined): 158
+• Output Tokens (Initial + Refined): 432
+• Total Tokens: 590
+
+2025-02-26 15:23:19,203 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:23:19,242 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:23:30,114 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:23:36,466 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:23:50,993 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:23:51,201 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:23:54,523 - INFO - [Routing] Query: Summarization of the healthcare-AI → Selected Model: mixtral-8x7b-32768
+2025-02-26 15:23:55,088 - INFO - [Memory] Found similar past responses: ["I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!", "I apologize, but the provided responses do not mention AI research or advancements. The text appears to be about LangChain, a decentralized translation platform that utilizes blockchain technology and smart contracts to facilitate translation services. If you would like to ask a new question or provide more context, I'd be happy to help!"]
+2025-02-26 15:23:55,643 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.55s
+• Input Tokens: 114
+• Output Tokens: 87
+• Total Tokens: 201
+• Estimated Cost: $0.0010
+
+2025-02-26 15:24:14,943 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:24:59,434 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:24:59,665 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:25:02,426 - INFO - [Routing] Query: "Write a Python script for web scraping."
+ → Selected Model: claude-2
+2025-02-26 15:25:02,485 - INFO - [Memory] Found similar past responses: ["Sure, I can help you with that! Here's a basic SQL query that you can use to find the top 10 best-selling products, based on the number of units sold:\n```sql\nSELECT product_name, SUM(units_sold) AS total_units_sold\nFROM sales_data\nGROUP BY product_name\nORDER BY total_units_sold DESC\nLIMIT 10;\n```\nThis query assumes that you have a table called `sales_data` that contains columns for `product_name` and `units_sold`. The query groups the data by product name, calculates the total number of units sold for each product, and then orders the results in descending order based on the total number of units sold. Finally, the `LIMIT` clause restricts the results to the top 10 products.\n\nOf course, you may need to modify this query to fit your specific database schema and requirements. Let me know if you have any questions or need further assistance!", "Sure, I can help you with that! Here's a basic SQL query that you can use to find the top 10 best-selling products, based on the number of units sold:\n```sql\nSELECT product_name, SUM(units_sold) AS total_units_sold\nFROM sales_data\nGROUP BY product_name\nORDER BY total_units_sold DESC\nLIMIT 10;\n```\nThis query assumes that you have a table called `sales_data` that contains columns for `product_name` and `units_sold`. The query groups the data by product name, calculates the total number of units sold for each product, and then orders the results in descending order based on the total number of units sold. Finally, the `LIMIT` clause restricts the results to the top 10 products.\n\nOf course, you may need to modify this query to fit your specific database schema and requirements. Let me know if you have any questions or need further assistance!"]
+2025-02-26 15:25:02,896 - WARNING - [Failure] Model: claude-2, Status: 401, Response: {"type":"error","error":{"type":"authentication_error","message":"Invalid bearer token"}}
+2025-02-26 15:25:02,897 - INFO - [Retry] Switching to fallback model: claude-2
+2025-02-26 15:25:03,269 - WARNING - [Failure] Model: claude-2, Status: 401, Response: {"type":"error","error":{"type":"authentication_error","message":"Invalid bearer token"}}
+2025-02-26 15:25:03,271 - INFO - [Retry] Switching to fallback model: mixtral-8x7b-32768
+2025-02-26 15:25:04,246 - INFO - [Success] Model: mixtral-8x7b-32768, Response Time: 0.97s
+• Input Tokens: 273
+• Output Tokens: 210
+• Total Tokens: 483
+• Estimated Cost: $0.0024
+
+2025-02-26 15:29:39,498 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:29:39,729 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:29:48,332 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:29:53,583 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 150
+• Output Tokens (Initial + Refined): 330
+• Total Tokens: 480
+
+2025-02-26 15:30:17,121 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:30:17,337 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:30:22,387 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 322
+• Output Tokens (Initial + Refined): 544
+• Total Tokens: 866
+
+2025-02-26 15:34:36,086 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:34:36,206 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:34:41,907 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 381
+• Output Tokens (Initial + Refined): 726
+• Total Tokens: 1107
+
+2025-02-26 15:42:54,179 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:42:54,249 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:42:54,250 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:42:54,249 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:42:54,250 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:42:59,704 - INFO - [Classification] API Response: 'Chain-of-Thought'
+2025-02-26 15:43:02,873 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 440
+• Output Tokens (Initial + Refined): 668
+• Total Tokens: 1108
+
+2025-02-26 15:43:53,321 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:43:53,553 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:43:56,697 - INFO - [Classification] API Response: 'Chain-of-Thought'
+2025-02-26 15:43:58,100 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 171
+• Output Tokens (Initial + Refined): 299
+• Total Tokens: 470
+
+2025-02-26 15:50:28,263 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:50:28,310 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:54:19,454 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:54:19,485 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:54:22,655 - INFO - [Classification] API Response: 'Chain-of-Thought'
+2025-02-26 15:54:24,106 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 157
+• Output Tokens (Initial + Refined): 337
+• Total Tokens: 494
+
+2025-02-26 15:55:42,914 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:55:43,134 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:55:46,180 - INFO - [Classification] API Response: 'Chain-of-Thought'
+2025-02-26 15:55:48,410 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 424
+• Output Tokens (Initial + Refined): 726
+• Total Tokens: 1150
+
+2025-02-26 15:56:24,293 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:56:24,509 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:56:27,420 - INFO - [Classification] API Response: 'Chain-of-Thought'
+2025-02-26 15:56:28,811 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 205
+• Output Tokens (Initial + Refined): 221
+• Total Tokens: 426
+
+2025-02-26 15:59:46,590 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:59:46,650 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 15:59:50,156 - INFO - [Classification] API Response: 'chain-of-thought'
+2025-02-26 15:59:51,822 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 185
+• Output Tokens (Initial + Refined): 324
+• Total Tokens: 509
+
+2025-02-26 16:00:01,845 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:00:02,082 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:00:05,070 - INFO - [Classification] API Response: 'chain-of-thought'
+2025-02-26 16:00:06,960 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 328
+• Output Tokens (Initial + Refined): 534
+• Total Tokens: 862
+
+2025-02-26 16:08:21,207 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:08:21,267 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:08:24,589 - INFO - [DEBUG] Full API Response: Chain-of-Thought
+2025-02-26 16:08:24,592 - INFO - [Classification] Extracted Style: 'chain_of_thought'
+2025-02-26 16:08:26,311 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 331
+• Output Tokens (Initial + Refined): 482
+• Total Tokens: 813
+
+2025-02-26 16:18:35,148 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:18:35,171 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:18:38,267 - INFO - [DEBUG] Full API Response from Groq: Chain-of-Thought
+
+This question requires a step-by-step reasoning process to reach an answer. First, you need to define what safety means in the context of AI models. Then, you should consider the safety features and track records of both GPT-4 and Claude 2. After weighing the pros and cons of each model, you can make a decision based on your specific safety requirements.
+2025-02-26 16:18:38,272 - INFO - [Classification] Extracted Style: 'chain_of_thought'
+2025-02-26 16:18:39,716 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 182
+• Output Tokens (Initial + Refined): 354
+• Total Tokens: 536
+
+2025-02-26 16:23:12,343 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:23:12,382 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:23:15,852 - INFO - [DEBUG] Full API Response from Groq: Self-Consistency
+2025-02-26 16:23:15,852 - INFO - [Classification] Final Selected Style: 'self_consistency'
+2025-02-26 16:23:18,220 - INFO - [Token Usage]
+• Prompting Style: self_consistency
+• Input Tokens (Initial + Refined): 392
+• Output Tokens (Initial + Refined): 702
+• Total Tokens: 1094
+
+2025-02-26 16:23:45,114 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:23:46,100 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:23:49,826 - INFO - [DEBUG] Full API Response from Groq: Self-Consistency
+2025-02-26 16:23:49,827 - INFO - [Classification] Final Selected Style: 'self_consistency'
+2025-02-26 16:23:52,145 - INFO - [Token Usage]
+• Prompting Style: self_consistency
+• Input Tokens (Initial + Refined): 385
+• Output Tokens (Initial + Refined): 654
+• Total Tokens: 1039
+
+2025-02-26 16:24:06,871 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:24:07,091 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:24:20,395 - INFO - [DEBUG] Full API Response from Groq: Chain-of-Thought
+
+Explanation: The question requires a step-by-step explanation of how Transformers work in AI. This involves describing the architecture, self-attention mechanism, positional encoding, and other components that contribute to the functioning of Transformers.
+2025-02-26 16:24:20,397 - INFO - [Fallback] Applying manual classification: 'chain_of_thought'
+2025-02-26 16:24:20,398 - INFO - [Classification] Final Selected Style: 'chain_of_thought'
+2025-02-26 16:24:22,783 - INFO - [Token Usage]
+• Prompting Style: chain_of_thought
+• Input Tokens (Initial + Refined): 407
+• Output Tokens (Initial + Refined): 754
+• Total Tokens: 1161
+
+2025-02-26 16:35:49,838 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:35:49,936 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:36:06,238 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:36:06,439 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 16:36:17,971 - INFO - [DEBUG] Groq API Classification Response: Chain-of-Thought
+2025-02-26 16:36:17,973 - INFO - [Fallback] Switching to dynamic complexity analysis: tree_of_thought
+2025-02-26 16:36:17,976 - INFO - [Classification] Final Selected Style: 'tree_of_thought'
+2025-02-26 16:36:20,369 - INFO - [Token Usage]
+• Prompting Style: tree_of_thought
+• Input Tokens (Initial + Refined): 359
+• Output Tokens (Initial + Refined): 662
+• Total Tokens: 1021
+
+2025-02-26 17:05:15,919 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 17:05:15,933 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 17:07:40,476 - INFO - ✅ Logger setup completed successfully.
+2025-02-26 17:07:40,489 - INFO - ✅ Logger setup completed successfully.

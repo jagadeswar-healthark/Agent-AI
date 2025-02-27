@@ -1,0 +1,157 @@
+2025-02-24 16:46:08 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:47:00 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:47:29 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:47:34 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:47:34 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:47:48 - INFO - [Initial Response] Style: chain_of_thought, Input Tokens: 26, Output Tokens: 277, Total Tokens: 303, Time: 9.20s
+2025-02-24 16:47:53 - INFO - [Refined Response] Input Tokens: 303, Output Tokens: 262, Total Tokens: 565, Time: 5.05s
+2025-02-24 16:52:22 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:52:32 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:52:32 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:52:36 - INFO - [Initial Response]
+• Prompting Style: chain_of_thought
+• Input Tokens: 13
+• Output Tokens: 137
+• Total Tokens: 150
+• Time Taken: 3.92 seconds
+
+2025-02-24 16:52:44 - INFO - [Refined Response]
+• Input Tokens: 150
+• Output Tokens: 304
+• Total Tokens: 454
+• Time Taken: 7.53 seconds
+
+2025-02-24 16:54:22 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:54:27 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:54:28 - INFO - [Initial Response]
+• Prompting Style: tree_of_thought
+• Input Tokens: 22
+• Output Tokens: 29
+• Total Tokens: 51
+• Time Taken: 1.69 seconds
+
+2025-02-24 16:54:37 - INFO - [Refined Response]
+• Input Tokens: 50
+• Output Tokens: 416
+• Total Tokens: 466
+• Time Taken: 8.17 seconds
+
+2025-02-24 16:57:30 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:57:34 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:57:42 - INFO - [Initial Response]
+• Prompting Style: tree_of_thought
+• Input Tokens: 45
+• Output Tokens: 282
+• Total Tokens: 327
+• Time Taken: 8.62 seconds
+
+2025-02-24 16:57:50 - INFO - [Refined Response]
+• Input Tokens: 326
+• Output Tokens: 154
+• Total Tokens: 480
+• Time Taken: 7.17 seconds
+
+2025-02-24 16:58:35 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:58:54 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:58:54 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 16:59:02 - INFO - [Initial Response]
+• Prompting Style: tree_of_thought
+• Input Tokens: 19
+• Output Tokens: 354
+• Total Tokens: 373
+• Time Taken: 7.72 seconds
+
+2025-02-24 16:59:08 - INFO - [Refined Response]
+• Input Tokens: 373
+• Output Tokens: 164
+• Total Tokens: 537
+• Time Taken: 5.56 seconds
+
+2025-02-24 17:00:31 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:01:14 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:01:15 - INFO - [Initial Response]
+• Prompting Style: tree_of_thought
+• Input Tokens: 24
+• Output Tokens: 23
+• Total Tokens: 47
+• Time Taken: 1.13 seconds
+
+2025-02-24 17:01:19 - INFO - [Refined Response]
+• Input Tokens: 47
+• Output Tokens: 253
+• Total Tokens: 300
+• Time Taken: 3.91 seconds
+
+2025-02-24 17:33:29 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:41:30 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:41:44 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:41:45 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:41:47 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:42:02 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:42:22 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:42:30 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:42:35 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:42:55 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:42:57 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:43:18 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
+2025-02-24 17:43:20 - WARNING - WARNING! top_p is not default parameter.
+                    top_p was transferred to model_kwargs.
+                    Please confirm that top_p is what you intended.
