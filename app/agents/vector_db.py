@@ -21,7 +21,7 @@ class VectorDB:
             collection_name="interactions",
             persist_directory=persist_directory,
             embedding_function=self.embed_model,
-            client_settings=Settings(anonymized_telemetry=False)
+            client_settings=Settings(anonymized_telemetry=False,database_impl="duckdb")
         )
 
     def store_interaction(self, query, response):
