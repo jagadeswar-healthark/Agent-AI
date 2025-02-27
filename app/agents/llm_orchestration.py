@@ -6,7 +6,7 @@ import time
 import requests
 import concurrent.futures
 import streamlit as st
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 from langchain.schema import AIMessage, HumanMessage
 from Utils.logger import setup_logger
 from Utils.token_counter import count_tokens  
