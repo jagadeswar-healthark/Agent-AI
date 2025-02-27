@@ -12,5 +12,5 @@ markdown-it-py
 mdurl
 pygments
 langchain_community
-chromadb  # Use the latest stable version of ChromaDB
-sqlite3
+chromadb==0.6.3  # Use the latest stable version of ChromaDB
+sqlite3==3.39.0
