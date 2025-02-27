@@ -43,7 +43,7 @@ distro==1.9.0
 Django==5.1.4
 dnspython==2.7.0
 durationpy==0.9
-Elixir==0.7.1
+Elixir
 email_validator==2.2.0
 entrypoints==0.4
 et-xmlfile==1.1.0
@@ -92,7 +92,7 @@ jupyter_client==8.6.2
 jupyter_core==5.7.2
 kiwisolver==1.4.7
 kubernetes==32.0.1
-langchain==0.3.0
+langchain
 langchain-community==0.3.0
 langchain-core==0.3.0
 langchain-google-genai==2.0.0
