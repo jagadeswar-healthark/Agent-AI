@@ -18,7 +18,7 @@ blinker==1.8.2
 bs4==0.0.2
 build==1.2.2.post1
 cachetools==5.5.0
-Camelot==12.6.29
+Camelot
 camelot-py==0.11.0
 certifi==2024.8.30
 cffi==1.17.1
@@ -33,7 +33,7 @@ comm==0.2.2
 contourpy==1.3.1
 cryptography==43.0.1
 cycler==0.12.1
-databases==0.9.0
+databases
 dataclasses-json==0.6.7
 debugpy==1.8.5
 decorator==5.1.1
@@ -211,7 +211,7 @@ sniffio==1.3.1
 sortedcontainers==2.4.0
 soupsieve==2.6
 Spire.Pdf==10.8.1
-SQLAlchemy==0.7.7
+SQLAlchemy
 sqlalchemy-migrate==0.11.0
 sqlparse==0.5.1
 stack-data==0.6.3
